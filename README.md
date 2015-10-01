@@ -127,7 +127,7 @@ Features to be added before 1.0 release
 * Union and fixed types
 * Error handling during deserialization
 
-## Using Elastic4s in your project
+## Using avro4s in your project
 
 Gradle: `compile 'com.sksamuel.avro4s:avro4s-core_2.11:0.91.0'`
 
